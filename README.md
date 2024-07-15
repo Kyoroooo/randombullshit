@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-  <html>
-  <head>
-  randomstuff/owner
-  </head>
-  <body>
-  <h1>CLICK HERE:</h1>
-  <button><a href="https://www.facebook.com/pnrtngsbw">sunog na hotdog</a></button>
-</body>  
+<html>
+<head>
+    <title>Color Changer Button</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Color Changer Button</h1>
+    <button id="color-button">Click me!</button>
+    <script src="script.js"></script>
+</body>
 </html>
